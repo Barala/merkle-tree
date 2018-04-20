@@ -1,0 +1,23 @@
+target
+target-server-side
+target-grunt
+tomcat-log
+bin
+.metadata
+.settings
+.checkstyle
+.classpath
+.project
+
+closure-library
+node_modules
+.jshintrc
+jasmine-template.tmpl
+jsdoc-conf.json
+package.json
+
+*.log
+setenv.sh
+
+#s3 big file
+hue-dfs-integration-test/src/test/resources/bigFile.txt
